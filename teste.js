@@ -1,2 +1,2 @@
 console.log("Envio inicial")
-"Sou o colaborador Richards e alterei aqui" 
+"Sou o colaborador Richards7 e alterei aqui" 
